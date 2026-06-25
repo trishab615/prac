@@ -1,2 +1,3 @@
 hello from remote repo
 hello from local repo
+hello from slave branch from local repo
